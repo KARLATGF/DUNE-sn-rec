@@ -1,0 +1,76 @@
+FEMB SN: BNL/FEMB/I0-1865-1J/00007
+
+06-06-2024
+
+* Chip 0 (back):
+Original OCR result: ColdADC N6Y381.00 02321 2315
+Formatted OCR result:
+ColdADC
+N6Y381.00
+02321
+2315
+
+* Chip 1 (back):
+Original OCR result: ColdADC N6Y381.00 01679 2315
+Formatted OCR result:
+ColdADC
+N6Y381.00
+01679
+2315
+
+* Chip 2 (back):
+Original OCR result: ColADC N6Y381.00 01707 2315
+Formatted OCR result:
+ColADC
+N6Y381.00
+01707
+2315
+
+* Chip 3 (back):
+Original OCR result: ColADC N6Y381.00 02160 2315
+Formatted OCR result:
+ColADC
+N6Y381.00
+02160
+2315
+
+* Chip 4 (back):
+Original OCR result: BNL LArASIC Version P5B 23/16 003-07388
+Formatted OCR result:
+BNL
+LArASIC
+Version
+P5B
+23/16
+003-07388
+
+* Chip 5 (back):
+Original OCR result: BNL LArASIC Version P5B 23/16 003-07387
+Formatted OCR result:
+BNL
+LArASIC
+Version
+P5B
+23/16
+003-07387
+
+* Chip 6 (back):
+Original OCR result: BNL LArASIC Version P5B 23/16 003-07538
+Formatted OCR result:
+BNL
+LArASIC
+Version
+P5B
+23/16
+003-07538
+
+* Chip 7 (back):
+Original OCR result: BNL LArASIC Version P5B 23/16 003-07537
+Formatted OCR result:
+BNL
+LArASIC
+Version
+P5B
+23/16
+003-07537
+

@@ -1,0 +1,34 @@
+{
+    "component_type": {
+        "part_type_id": "D08100400001"
+    },
+    "country_code": "US",
+    "comments": "Picture taken on 06-06-2024, by Karla F.",
+    "institution": {
+        "id": 128
+    },
+    "manufacturer": {
+        "id": 58
+    },
+    "specifications": {
+        "FEMB ID": "BNL/FEMB/I0-1865-1J/00007",
+        "(F) COLDATA 1 SN": "00209",
+        "(F) COLDATA 2 SN": "00211",
+        "(F) ColdADC 1 SN": "02454",
+        "(F) ColdADC 2 SN": "02426",
+        "(F) ColdADC 3 SN": "02526",
+        "(F) ColdADC 4 SN": "02387",
+        "(F) LArASIC 1 SN": "003-04637",
+        "(F) LArASIC 2 SN": "003-04630",
+        "(F) LArASIC 3 SN": "003-04619",
+        "(F) LArASIC 4 SN": "003-04564",
+        "(B) ColdADC 1 SN": "02321",
+        "(B) ColdADC 2 SN": "01679",
+        "(B) ColdADC 3 SN": "01707",
+        "(B) ColdADC 4 SN": "02160",
+        "(B) LArASIC 1 SN": "003-07388",
+        "(B) LArASIC 2 SN": "003-07387",
+        "(B) LArASIC 3 SN": "003-07538",
+        "(B) LArASIC 4 SN": "003-07537"
+    }
+}
